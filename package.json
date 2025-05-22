@@ -1,0 +1,24 @@
+{
+  "name": "@webnode-ecosystem/.github",
+  "description": "Github organization tweaks",
+  "version": "0.0.1",
+  "author": "Davide Di Criscito <davide.dicriscito@gmail.com>",
+  "license": "UNLICENSED",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.1.7",
+    "prettier": "^3.5.3"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "commit": "cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
