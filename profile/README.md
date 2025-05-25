@@ -1,6 +1,8 @@
-<picture style='text-align: center;'>
+<!-- #host-reference -->
+<!-- markdownlint-disable-next-line -->
+<p align='center'>
   <img src='../assets/logo-bgless.png' alt='logo' />
-</picture>
+</p>
 
 # WebNode Ecosystem
 
