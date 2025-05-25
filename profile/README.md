@@ -1,3 +1,7 @@
+<picture style='text-align: center;'>
+  <img src='../assets/logo-bgless.png' alt='logo' />
+</picture>
+
 # WebNode Ecosystem
 
 A unified space for open-source tooling, SDKs, and infrastructure designed to support building websites as microservices. The organization focuses on delivering lightweight, composable, and scalable libraries that empower developers to create service-oriented web architectures.
